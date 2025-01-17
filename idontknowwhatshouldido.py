@@ -1,0 +1,1 @@
+print("Pineapple on pizza is a crime against humanity.")
